@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Busfield's Notes
+tagline:      Busfield's notes and thoughts about blockchain and IoT.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Busfield
+  url:        http://busfield.consenbus.org
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
